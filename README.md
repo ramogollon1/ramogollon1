@@ -1,7 +1,7 @@
 ## Hi there, I'm Rafael Mogollon!
 
 I create successful websites that are fast, easy to use, and built with best practices.
-Every day I'm learning new knowledge and new goals that have led me to train as a professional and I will continue preparing myself everyday to do what I like and that beautiful thing is programming.
+Every day I'm learning new knowledge and new goals that have led me to train as a professional and I will continue preparing myself every day to do what I like and that beautiful thing is programming.
 
 ### 👋 About Me
 
