@@ -1,9 +1,9 @@
 ## Hi there, I'm Rafael Mogollon!
 
 I create successful websites that are fast, easy to use, and built with best practices.
-Every day I'm learning new knowledges and new goals that have led me to train as a professional and I will continue preparing myself everyday to do what I like and that beautiful thing is programming.
+Every day I'm learning new knowledge and new goals that have led me to train as a professional and I will continue preparing myself everyday to do what I like and that beautiful thing is programming.
 
-### 👋 About Me:
+### 👋 About Me
 
 - I’m a Venezuelan living in Argentina
 - I'm a Computer Engineer since 2014
@@ -11,7 +11,7 @@ Every day I'm learning new knowledges and new goals that have led me to train as
 - I'm currently working at [bons](https://www.bons.io/).
 - Reach me at [LinkedIn](https://www.linkedin.com/in/rafaelerasmo7/) or email me rafaelerasmo6@gmail.com
 
-### 💻 Tech Experience:
+### 💻 Tech Experience
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -36,7 +36,7 @@ Every day I'm learning new knowledges and new goals that have led me to train as
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 
 <a href="https://www.instagram.com/rafael_erasmo7/"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rafaelerasmo7/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
