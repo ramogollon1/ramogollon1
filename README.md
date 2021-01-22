@@ -8,7 +8,7 @@ Every day I'm learning new knowledge and new goals that have led me to train as 
 - I’m a Venezuelan living in Argentina
 - I'm a Computer Engineer since 2014
 - 7+ years experience as a Front-end developer
-- I'm currently working at [bons](https://www.bons.io/).
+- I'm currently working at [MODO](https://modo.com.ar/).
 - Reach me at [LinkedIn](https://www.linkedin.com/in/rafaelerasmo7/) or email me rafaelerasmo6@gmail.com
 
 ### 💻 Tech Experience
